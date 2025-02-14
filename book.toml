@@ -1,6 +1,10 @@
 [book]
-authors = ["YiXiangZheng"]
-language = "en"
+authors = ["Polkasharks"]
+language = "zh-TW"
 multilingual = false
 src = "src"
-title = "Polkasharks"
+title = "波卡西行"
+
+
+[output.html]
+additional-js = ["theme/custom.js"]
